@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science and GIS projects and internships.
 - 📫 How to reach me 
         - email : alyssakeehan@ucsb.edu
-        - linkedin: Alyssa Keehan
+        - linkedin: https://www.linkedin.com/in/alyssa-keehan/
 
 <!---
 alyssakeehan/alyssakeehan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
